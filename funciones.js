@@ -8,7 +8,7 @@ $(document).ready(function() {
       // Generar 3 inputs con nombres y etiquetas personalizadas
       contenedorInputs.append('<label for="input1">Nombre: </label>');
       contenedorInputs.append('<input type="text" class="form-control" name="input1" id="input1" value="valor x0"><br>');
-
+//comentario
       contenedorInputs.append('<label for="input2">Tolerancia: </label>');
       contenedorInputs.append('<input type="text" class="form-control" name="input2" id="input2" value="tolerancia"><br>');
 
